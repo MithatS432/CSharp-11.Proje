@@ -1,0 +1,8 @@
+C:\Users\mitha\source\repos\Diziler1\Diziler1\bin\Debug\Diziler1.exe.config
+C:\Users\mitha\source\repos\Diziler1\Diziler1\bin\Debug\Diziler1.exe
+C:\Users\mitha\source\repos\Diziler1\Diziler1\bin\Debug\Diziler1.pdb
+C:\Users\mitha\source\repos\Diziler1\Diziler1\obj\Debug\Diziler1.csproj.AssemblyReference.cache
+C:\Users\mitha\source\repos\Diziler1\Diziler1\obj\Debug\Diziler1.csproj.CoreCompileInputs.cache
+C:\Users\mitha\source\repos\Diziler1\Diziler1\obj\Debug\Diziler1.exe
+C:\Users\mitha\source\repos\Diziler1\Diziler1\obj\Debug\Diziler1.pdb
+C:\Users\mitha\source\repos\Diziler1\Diziler1\obj\Debug\Diziler1.exe.config
